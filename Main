@@ -24,7 +24,7 @@ while True:
     driver.find_element_by_css_selector('#bp_freeplay').click()
     driver.get(('https://www.wizard101.com/auth/logout?redirectUrl=https%3A%2F%2Fwww.wizard101.com%2Fuser%2Fregistration'))
 
-    with open("W101UsernameAcc.txt", "a") as myFile:
+    with open("Accounts.txt", "a") as myFile:
      myFile.write(username + "\n")
     end = time.time()
     print("Username " + username + " created in " + str(end - start)[0:4] + " seconds")
