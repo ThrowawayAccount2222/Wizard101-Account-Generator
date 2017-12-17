@@ -3,8 +3,11 @@
 Creates Wizard101 Accounts like an asshole ~ 2 seconds/account
 
 REQUIREMENTS:
+
   -Python 3.6
+  
   -Selenium
+  
   -Firefox webdriver (Recommended but webdriver are required)
 
 
