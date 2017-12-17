@@ -33,7 +33,6 @@ while True:
     if x >= 250:
         x = 0
         driver.quit()
-        driver = webdriver.Firefox(
-            executable_path=r'C:\\Users\\Chan\\Desktop\\Python\\Gen\\SelDrivers\\geckodriver.exe')
+        driver = webdriver.Firefox()
         driver.get("https://wizard101.com/user/registration")
         driver.get("https://wizard101.com/user/registration")
