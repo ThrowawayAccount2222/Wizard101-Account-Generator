@@ -45,7 +45,7 @@ Redeems Codes for accounts from a minimal of 3 seconds
 2. Get the path of your chosen webdriver and stick it into the "PATH\TO\WEBDRIVER" (x2)
 
 
-3. Install Capture2Text (This is the OCR I will be using) from http://capture2text.sourceforge.net/
+3. Install Capture2Text (This is the OCR I will be using) from http://capture2text.sourceforge.net/ or https://sourceforge.net/projects/capture2text/files/SourceCode/ for the direct library
 
 
 4. Get the path of Capture2Text and stick it into the "PATH\TO\CAPTURE2TEXT"
