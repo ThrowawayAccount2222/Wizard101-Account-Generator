@@ -13,7 +13,7 @@ REQUIREMENTS:
 
 
 
-DISCLAIMER: I have nothing to do with what you choose to do with this code + this is legitament unlike all the scam websites.
+DISCLAIMER: I have nothing to do with what you choose to do with this code + this is legitimate unlike all the scam websites.
 
 
 love you <3
