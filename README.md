@@ -51,14 +51,15 @@ Redeems Codes for accounts from a minimal of 3 seconds
 4. Get the path of Capture2Text and stick it into the "PATH\TO\CAPTURE2TEXT"
 
 
-5. Ready to go!
+5. Install opencv (pip install opencv-python) and numpy (pip install numpy)
+
+
+6. Ready to go!
 
 
 
 
-
-
-DISCLAIMER: I have nothing to do with what you choose to do with this code + this is legitimate unlike all the scam websites.
+DISCLAIMER: I have nothing to do with what you choose to do with this code + this is legitimate unlike all the scam websites. If you ask for proof I have nothing except for you to stare at the code.
 
 
 love you <3
