@@ -4,7 +4,8 @@ import random
 import string
 import time
 
-driver = webdriver.Firefox()
+driver = webdriver.Firefox(
+    executable_path=r"PATH\TO\WEBDRIVER")                       #WEBDRIVER HERE
 
 driver.get("https://wizard101.com/user/registration")
 driver.get("https://wizard101.com/user/registration")
@@ -33,6 +34,7 @@ while True:
     if x >= 250:
         x = 0
         driver.quit()
-        driver = webdriver.Firefox()
+        driver = webdriver.Firefox(
+            executable_path=r"PATH\TO\WEBDRIVER")                       #WEBDRIVER HERE TOO!
         driver.get("https://wizard101.com/user/registration")
         driver.get("https://wizard101.com/user/registration")
